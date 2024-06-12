@@ -6,4 +6,4 @@ password="root",, For APIs- /customer ,/cart , /payment
 
 1.For Acessing as Admin u need -
 username ="admin"
-password ="root" ,,For APIs- /Product
+password ="root" ,,For APIs- /product
