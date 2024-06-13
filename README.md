@@ -4,6 +4,6 @@ For Accessing these APIs you will need username and Password:-
 username ="user"
 password="root",, For APIs- /customer ,/cart , /payment
 
-1.For Acessing as Admin u need -
+2.For Acessing as Admin u need -
 username ="admin"
 password ="root" ,,For APIs- /product
